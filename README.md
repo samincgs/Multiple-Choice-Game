@@ -1,4 +1,6 @@
 # java-multiple-choice-game
-simple general knowledge quiz in java
 
-s
+Multiple Choice Game that is made using Java. 
+It utilises Java Swing to create the Graphical User Interface with interactive choices and uses a timer that counts down every question.
+
+
